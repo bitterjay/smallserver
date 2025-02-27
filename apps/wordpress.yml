@@ -1,4 +1,4 @@
-app: wordpress
+name: wordpress
 
 services:
   db:
